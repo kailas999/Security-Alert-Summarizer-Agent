@@ -1,0 +1,6 @@
+crewai
+streamlit
+python-dotenv
+reportlab
+graphviz
+gTTS
